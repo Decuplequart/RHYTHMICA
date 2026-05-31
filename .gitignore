@@ -1,0 +1,25 @@
+# build系
+build/
+bin/
+out/
+
+# Windows
+*.exe
+*.pdb
+*.obj
+
+# Linux
+*.o
+a.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# エディタ
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
